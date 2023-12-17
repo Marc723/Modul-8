@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401965319972",
+    "project_id": "fir-f55122022",
+    "storage_bucket": "fir-f55122022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401965319972:android:1080561a1f3e575c3c95b1",
+        "android_client_info": {
+          "package_name": "com.marco.firebasefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwfGhNh1f-284ydaxtU7lStksWnQdNppU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
